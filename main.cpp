@@ -1,11 +1,3 @@
-﻿//
-//  main.c
-//  BinaryTree
-//
-//  Created by chenyufeng on 16/3/10.
-//  Copyright © 2016年 chenyufengweb. All rights reserved.
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stack>
